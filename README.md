@@ -22,6 +22,7 @@
 ### 生怪蛋
 ![](imgs/skeleton_egg.png)<br>
 ![](imgs/zombie_egg.png)<br>
+![](imgs/villager_egg.png)<br>
 
 ### 工具類
 ![](imgs/elytra.png)<br>

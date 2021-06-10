@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#EI",
+        "EME",
+        "UEZ"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_shovel"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "I": {
+            "item": "minecraft:iron_sword"
+        },
+        "M": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "U": {
+            "item": "minecraft:iron_axe"
+        },
+        "Z": {
+            "item": "minecraft:iron_hoe"
+        }
+    },
+    "result": {
+        "item": "minecraft:villager_spawn_egg",
+        "count": 1
+    }
+}
