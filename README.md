@@ -27,6 +27,7 @@
 ![](imgs/elytra.png)<br>
 ![](imgs/totem_of_undying.png)<br>
 ![](imgs/trident.png)<br>
+![](imgs/sculk_sensor.png)<br>
 
 ### 其他
 ![](imgs/exp_bottle.png)<br>
