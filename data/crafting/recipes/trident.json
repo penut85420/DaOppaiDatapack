@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#II",
+        "D/I",
+        "/D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lead"
+        },
+        "I": {
+            "item": "minecraft:iron_sword"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    "result": {
+        "item": "minecraft:trident",
+        "count": 1
+    }
+}
