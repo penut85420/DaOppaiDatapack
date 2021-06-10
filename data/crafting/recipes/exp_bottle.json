@@ -1,19 +1,26 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "#",
-        "P"
+        "#E#",
+        "GKG",
+        " G "
     ],
     "key": {
         "#": {
+            "item": "minecraft:gold_nugget"
+        },
+        "E": {
             "tag": "daoppai:exp_material"
         },
-        "P": {
-            "item": "minecraft:potion"
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "K": {
+            "item": "minecraft:emerald"
         }
     },
     "result": {
         "item": "minecraft:experience_bottle",
-        "count": 1
+        "count": 10
     }
 }
