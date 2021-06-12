@@ -30,6 +30,7 @@
 ![](imgs/totem_of_undying.png)<br>
 ![](imgs/trident.png)<br>
 ![](imgs/sculk_sensor.png)<br>
+![](imgs/bundle.png)<br>
 
 ### 其他
 ![](imgs/spawner.png)<br>
