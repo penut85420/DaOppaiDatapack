@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#/#",
+        "/E/",
+        "#/#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:charcoal"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "E": {
+            "item": "minecraft:emerald_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:bamboo",
+        "count": 4
+    }
+}

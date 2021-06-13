@@ -33,6 +33,7 @@
 ![](imgs/bundle.png)<br>
 
 ### 其他
+![](imgs/bamboo.png)<br>
 ![](imgs/spawner.png)<br>
 ![](imgs/exp_bottle.png)<br>
 註：除了腐肉以外，樹苗與小麥種子皆可製作經驗瓶
